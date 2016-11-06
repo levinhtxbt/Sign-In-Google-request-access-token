@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">SignInGoogle</string>
+    <string name="server_client_id">223412781732-9tq9mjpvun491hd0hs0avg4gh589agun.apps.googleusercontent.com</string>
+    <string name="signed_in_fmt">levinh</string>
+</resources>

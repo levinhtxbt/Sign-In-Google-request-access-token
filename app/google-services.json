@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "223412781732",
+    "project_id": "ytmusic-144919"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:223412781732:android:bb4962f150b61672",
+        "android_client_info": {
+          "package_name": "net.levinh.signingoogle"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "223412781732-pesdqg1j9h808o0sm45ms8clrklshfm6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "net.levinh.signingoogle",
+            "certificate_hash": "3DEEDB54EB637BAD2817C23A504A2EE12F8D2072"
+          }
+        },
+        {
+          "client_id": "223412781732-9tq9mjpvun491hd0hs0avg4gh589agun.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCu3qySnemUdJ7szif-bVUFVaZcyCkoJHo"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 1
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
